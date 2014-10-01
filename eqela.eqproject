@@ -1,0 +1,9 @@
+
+#
+# Project configuration file for
+# Barroga_game
+#
+
+projectname: Barroga_game
+vendorid: com.mycompany
+mainmodule: com.mycompany.barrogagame
